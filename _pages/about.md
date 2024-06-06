@@ -34,32 +34,49 @@ Academic Publications
 ------
 **Journals**
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
-N. Li, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
+**N. Li**, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
 
-3. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification[Source](https://ieeexplore.ieee.org/document/10318097/)  
+2. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification [Source](https://ieeexplore.ieee.org/document/10318097/)  
 N. Li, Z. Wang, F. A. Cheikh, M. Ullah, *IEEE Access*, vol. 11, pp. 128667-128680, 2023. (SCI, JCR Q2, IF: 3.9)
 
-4. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification[Source](https://ieeexplore.ieee.org/document/9832463)  
+3. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9832463)  
 N. Li, Z. Wang, F. A. Cheikh, M. Ullah, *IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing*, vol. 15, pp. 5984-5998, 2022. (SCI, JCR Q1, IF: 5.5)
 
-5. Spatial attention guided residual attention network for hyperspectral image classification[Source](https://ieeexplore.ieee.org/document/9684915)  
+4. Spatial attention guided residual attention network for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9684915)  
 N. Li, Z. Wang, *IEEE Access*, vol. 10, pp. 9830-9847, 2022. (SCI, JCR Q2, IF: 3.9)
 
-6. Hyperspectral sea fleet detection based on approximate posterior information[Source](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
+5. Hyperspectral sea fleet detection based on approximate posterior information [Source](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
 N. Li, Z. Wang, *Journal of Zhengzhou University (Natural Science Edition)*, vol. 53, no. 1, Mar. 2021, pp. 54-60.
 
 **Conferences**
+1. Centralized sample expansion and prior correlation evaluation for hyperspectral image classification with fully convolutional network [Source](https://ieeexplore.ieee.org/document/10323055/)  
+N. Li, Z. Wang, *2023 11th European Workshop on Visual Information Processing (EUVIP)*, Gjøvik, Norway, Sept. 11-14, 2023, pp. 1-6. (EI)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+2. Centralized attention modules for hyperspectral remote sensing image classification [Source](https://ieeexplore.ieee.org/document/10387873)  
+N. Li, Z. Wang, F. A. Cheikh, M. Ullah, *2023 8th International Conference on Computational Intelligence and Applications (ICCIA)*, Haikou, China, Jun. 23-25 2023, pp. 112-116. (EI)
 
-How to edit your site's GitHub repository
+3. An improved vulnerable pedestrian detection algorithm based on YOLOv7 [Source](https://ieeexplore.ieee.org/document/10387890/)  
+X. Ye, Z. Wang, N. Li, K. Ye, *2023 8th International Conference on Computational Intelligence and Applications (ICCIA)*, Haikou, China, 2023, pp. 193-197. (EI)
+
+4. Classification of acute bilirubin encephalopathy based on individual and fused attention network [Source](https://ieeexplore.ieee.org/document/10387834/)  
+G. Yang, Z. Wang, N. Li, *2023 8th International Conference on Computational Intelligence and Applications (ICCIA)*, Haikou, China, 2023, pp. 133-137. (EI)
+
+5. S<sup>3</sup>AM++: Integrating differential strategy into spectral-similarity-based spatial attention module for hyperspectral remote sensing image classification [Source](https://dl.acm.org/doi/10.1145/3604078.3604147)  
+N. Li, Z. Wang, F. A. Cheikh, M. Ullah, *2023 15th International Conference on Digital Image Processing (ICDIP)*, Nanjing, China, May 19-22, 2023, art. no. 69, pp. 1-9. (EI)
+
+4. Spectral-spatial fused attention network for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9506338/)  
+N. Li, Z. Wang, *2021 IEEE International Conference on Image Processing (ICIP)*, Anchorage, AK, USA, Sept. 19-22, 2021, pp. 3832-3836. (CCF-C, EI)
+
+5. The nonlinear hyperplane cnn for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9688662/)  
+ X. Zhang, Z. Wang, N. Li, *2021 IEEE 6th International Conference on Signal and Image Processing (ICSIP)*, Nanjing, China, 2021, pp. 350-354. (EI)
+
+6. Hyperspectral image ship detection based upon two-channel convolutional neural network and transfer learning [Source](https://ieeexplore.ieee.org/document/9339434/)  
+N. Li, Z. Wang, *2020 IEEE 5th International Conference on Signal and Image Processing (ICSIP)*, Nanjing, China, Oct. 23-25, 2020, pp. 88-92. (EI)
+
+7. Hyperspectral sea fleet detection based on approximate posterior information  
+N. Li, Z. Wang, *2020 National Conference on Image and Graphics (NCIG)*, Urumqi, China, Jun. 26-28, 2020.
+
+Academic activities
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
