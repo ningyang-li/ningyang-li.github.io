@@ -33,7 +33,7 @@ Works
 Academic Publications
 ------
 **Journals**
-1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review  
+1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
 N. Li, Z. Wang, F. A. Cheikh, Sensors, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
 
 3. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification  
