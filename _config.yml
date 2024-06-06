@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ningyang Li"
-  pronouns         : he # example: "she/her"  
+  pronouns         : "he" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Luohe, China"
-  employer         : "Red Brick University"
+  employer         : "Hainan University"
   uri              :  # URL
   email            : "fes_map@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=6BRmrm0AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
