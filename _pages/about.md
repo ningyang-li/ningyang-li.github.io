@@ -34,19 +34,19 @@ Academic Publications
 ------
 **Journals**
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
-N. Li, Z. Wang, F. A. Cheikh, Sensors, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
+N. Li, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
 
-3. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification  
-N. Li, Z. Wang, F. A. Cheikh, M. Ullah, IEEE Access, vol. 11, pp. 128667-128680, 2023. (SCI, JCR Q2, IF: 3.9)
+3. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification[Source](https://ieeexplore.ieee.org/document/10318097/)  
+N. Li, Z. Wang, F. A. Cheikh, M. Ullah, *IEEE Access*, vol. 11, pp. 128667-128680, 2023. (SCI, JCR Q2, IF: 3.9)
 
-4. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification  
-N. Li, Z. Wang, F. A. Cheikh, M. Ullah, IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, vol. 15, pp. 5984-5998, 2022. (SCI, JCR Q1, IF: 5.5)
+4. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification[Source](https://ieeexplore.ieee.org/document/9832463)  
+N. Li, Z. Wang, F. A. Cheikh, M. Ullah, *IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing*, vol. 15, pp. 5984-5998, 2022. (SCI, JCR Q1, IF: 5.5)
 
-5. Spatial attention guided residual attention network for hyperspectral image classification  
-N. Li, Z. Wang, IEEE Access, vol. 10, pp. 9830-9847, 2022. (SCI, JCR Q2, IF: 3.9)
+5. Spatial attention guided residual attention network for hyperspectral image classification[Source](https://ieeexplore.ieee.org/document/9684915)  
+N. Li, Z. Wang, *IEEE Access*, vol. 10, pp. 9830-9847, 2022. (SCI, JCR Q2, IF: 3.9)
 
-6. Hyperspectral sea fleet detection based on approximate posterior information  
-N. Li, Z. Wang, Journal of Zhengzhou University (Natural Science Edition), vol. 53, no. 1, Mar. 2021, pp. 54-60.
+6. Hyperspectral sea fleet detection based on approximate posterior information[Source](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
+N. Li, Z. Wang, *Journal of Zhengzhou University (Natural Science Edition)*, vol. 53, no. 1, Mar. 2021, pp. 54-60.
 
 **Conferences**
 
