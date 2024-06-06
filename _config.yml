@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ningyang Li"
-  pronouns         : "he" # example: "she/her"  
+  pronouns         : "" # example: "she/her"  
   bio              : ""
   location         : "Luohe, China"
   employer         : "Hainan University"
