@@ -22,6 +22,8 @@ Research iinterest
 ======
 Computer vision
 
+Image processing
+
 Hyperspectral image classification
 
 Deep learning
