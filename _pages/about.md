@@ -28,7 +28,7 @@ Remote sensing
 
 Works
 ======
-
+null
 
 Academic Publications
 ======
@@ -95,12 +95,9 @@ Academic activities
 
 Interests
 ======
-Fishing  
-Marathon  
-Hiking  
-Listening to music
-
-
-
+- Fishing  
+- Marathon  
+- Hiking  
+- Listening to music
 
 
