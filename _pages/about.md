@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-**Education experience**
+#Education experience
 Ningyang Li received the B.S. degree in remote sensing science and technology with the Faculty of Surveying and Land Information Engineering, Henan Polytechnic University (HPU), Jiaozuo, China, in 2019, and the M.Eng. degree in software engineering with the Faculty of Computer Science and Technology, Hainan University (HNU), Haikou, China, in 2023. From March to September, 2022, he was an exchange student with Department of Computer Science, Faculty of Information Technology and Electrical Engineering, Norwegian University of Science and Technology (NTNU), Gjøvik, Norway.
 
-**Research interest**
+#Research interest
 Computer vision
 Deep learning
 Remote sensing
