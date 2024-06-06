@@ -20,14 +20,10 @@ Education
 
 Research interest
 ======
-Computer vision
-
-Image processing
-
-Hyperspectral image classification
-
-Deep learning
-
+Computer vision  
+Image processing  
+Hyperspectral image classification  
+Deep learning  
 Remote sensing
 
 Works
