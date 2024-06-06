@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ningyang Li received the B.S. degree in remote sensing science and technology with the Faculty of Surveying and Land Information Engineering, Henan Polytechnic University, Jiaozuo, China, in 2019, and the M.Eng. degree in software engineering with the Faculty of Computer Science and Technology, Hainan University, Haikou, China, in 2023. From March to September, 2022, he was an exchange student with Department of Computer Science, Faculty of Information Technology and Electrical Engineering, Norwegian University of Science and Technology, Gjøvik, Norway.
+Ningyang Li received the B.S. degree in remote sensing science and technology with the Faculty of Surveying and Land Information Engineering, Henan Polytechnic University (HPU), Jiaozuo, China, in 2019, and the M.Eng. degree in software engineering with the Faculty of Computer Science and Technology, Hainan University (HNU), Haikou, China, in 2023. From March to September, 2022, he was an exchange student with Department of Computer Science, Faculty of Information Technology and Electrical Engineering, Norwegian University of Science and Technology (NTNU), Gjøvik, Norway.
 
 His research interests include hyperspectral image processing and analysis and deep learning.
 
