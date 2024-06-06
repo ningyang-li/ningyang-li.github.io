@@ -67,7 +67,7 @@ G. Yang, Z. Wang, **N. Li**, *2023 8th International Conference on Computational
 4. Spectral-spatial fused attention network for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9506338/)  
 **N. Li**, Z. Wang, *2021 IEEE International Conference on Image Processing (ICIP)*, Anchorage, AK, USA, Sept. 19-22, 2021, pp. 3832-3836. (CCF-C, EI)
 
-5. The nonlinear hyperplane cnn for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9688662/)  
+5. The nonlinear hyperplane CNN for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9688662/)  
 X. Zhang, Z. Wang, **N. Li**, *2021 IEEE 6th International Conference on Signal and Image Processing (ICSIP)*, Nanjing, China, 2021, pp. 350-354. (EI)
 
 6. Hyperspectral image ship detection based upon two-channel convolutional neural network and transfer learning [Source](https://ieeexplore.ieee.org/document/9339434/)  
