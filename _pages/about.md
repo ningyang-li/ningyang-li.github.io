@@ -32,24 +32,24 @@ Remote sensing
 
 Works
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
 
 Academic Publications
 ------
 **Journals**
-1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review
+1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review  
 N. Li, Z. Wang, F. A. Cheikh, Sensors, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
 
-2. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification
+3. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification  
 N. Li, Z. Wang, F. A. Cheikh, M. Ullah, IEEE Access, vol. 11, pp. 128667-128680, 2023. (SCI, JCR Q2, IF: 3.9)
 
-3. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification
+4. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification  
 N. Li, Z. Wang, F. A. Cheikh, M. Ullah, IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, vol. 15, pp. 5984-5998, 2022. (SCI, JCR Q1, IF: 5.5)
 
-4. Spatial attention guided residual attention network for hyperspectral image classification
+5. Spatial attention guided residual attention network for hyperspectral image classification  
 N. Li, Z. Wang, IEEE Access, vol. 10, pp. 9830-9847, 2022. (SCI, JCR Q2, IF: 3.9)
 
-5. Hyperspectral sea fleet detection based on approximate posterior information
+6. Hyperspectral sea fleet detection based on approximate posterior information  
 N. Li, Z. Wang, Journal of Zhengzhou University (Natural Science Edition), vol. 53, no. 1, Mar. 2021, pp. 54-60.
 
 **Conferences**
