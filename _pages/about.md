@@ -9,16 +9,21 @@ redirect_from:
 
 Education experience
 ======
-Bachelor  2015.09-2019.06  Remote Sensing Science and Technology  Faculty of Surveying and Land Information Engineering  Henan Polytechnic University (HPU)  Jiaozuo, China
-Master    2019.09-2023.06  Software Engineering  Faculty of Computer Science and Technology  Hainan University (HNU)  Haikou, China
-Exchange student  2022.03-2022.09  Department of Computer Science, Faculty of Information Technology and Electrical Engineering  Norwegian University of Science and Technology (NTNU)  Gjøvik, Norway
+**Bachelor**  2015.09-2019.06  Remote Sensing Science and Technology  Faculty of Surveying and Land Information Engineering  Henan Polytechnic University (HPU)  Jiaozuo, China
+
+**Master**    2019.09-2023.06  Software Engineering  Faculty of Computer Science and Technology  Hainan University (HNU)  Haikou, China
+
+**Exchange student**  2022.03-2022.09  Department of Computer Science, Faculty of Information Technology and Electrical Engineering  Norwegian University of Science and Technology (NTNU)  Gjøvik, Norway
 
 Research iinterest
 ======
 Computer vision
-Deep learning
-Remote sensing
+
 Hyperspectral image classification
+
+Deep learning
+
+Remote sensing
 
 Site-wide configuration
 ------
