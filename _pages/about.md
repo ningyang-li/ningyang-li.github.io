@@ -63,8 +63,7 @@ X. Zhang, Z. Wang, **N. Li**, *2021 IEEE 6th International Conference on Signal 
 **N. Li**, Z. Wang, *2020 National Conference on Image and Graphics (NCIG)*, Urumqi, China, Jun. 26-28, 2020.
 
 **Thesis**
-
-Master - 高光谱遥感图像分类算法研究 / Research on Algorithms for Hyperspectral Remote Sensing Image Classification [Source](https://drive.google.com/file/d/1Yverziixg7rYchFsT04kR-Lqg7FZnl0E/view?usp=drive_link)  
+- Master - 高光谱遥感图像分类算法研究 / Research on Algorithms for Hyperspectral Remote Sensing Image Classification [Source](https://drive.google.com/file/d/1Yverziixg7rYchFsT04kR-Lqg7FZnl0E/view?usp=drive_link)  
 Ningyang Li, Supervised by Zhaohui Wang, Hainan University, Jun. 30, 2023.
 
 Academic activities
