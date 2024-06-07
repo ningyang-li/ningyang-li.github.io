@@ -31,7 +31,7 @@ null
 Academic Publications
 ======
 **Journals**
-<div align="center">
+<div align="left">
   <img src=https://github.com/ningyang-li/ningyang-li.github.io/blob/master/images/profile.png>
 </div>
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
