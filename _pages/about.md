@@ -31,8 +31,8 @@ null
 Academic Publications
 ======
 **Journals**
-|![img](https://github.com/ningyang-li/ningyang-li.github.io/blob/master/images/profile.png) | Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
-**N. Li**, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
+| ![img](https://github.com/ningyang-li/ningyang-li.github.io/blob/master/images/profile.png) | Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
+**N. Li**, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)|
 
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
 **N. Li**, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
