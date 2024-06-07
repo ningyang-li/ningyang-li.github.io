@@ -21,8 +21,8 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
-    width: 100%;
-    padding-left: 1em;
+    width: 90%;
+    padding-left: em;
     padding-right: 0;
   }
 
