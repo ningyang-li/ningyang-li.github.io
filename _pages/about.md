@@ -62,6 +62,10 @@ X. Zhang, Z. Wang, **N. Li**, *2021 IEEE 6th International Conference on Signal 
 7. Hyperspectral sea fleet detection based on approximate posterior information  
 **N. Li**, Z. Wang, *2020 National Conference on Image and Graphics (NCIG)*, Urumqi, China, Jun. 26-28, 2020.
 
+**Thesis**
+Master - 高光谱遥感图像分类算法研究 / Research on Algorithms for Hyperspectral Remote Sensing Image Classification  
+Ningyang Li, Supervised by Zhaohui Wang, Hainan University, Jun. 30, 2023.
+
 Academic activities
 ======
 - 2020 20th National Conference on Image and Graphics (NCIG 2020), Urumqi, China, Jun. 28-30, 2020. (Oral Presentation)
