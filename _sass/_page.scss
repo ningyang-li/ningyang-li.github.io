@@ -21,6 +21,9 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .page__inner-wrap {
@@ -49,7 +52,6 @@
 }
 
 .page__content {
-
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
