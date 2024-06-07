@@ -18,8 +18,8 @@ Education
 
 Research interest
 ======
-Computer vision  
 Image processing  
+Computer vision  
 Hyperspectral image classification  
 Deep learning  
 Remote sensing
