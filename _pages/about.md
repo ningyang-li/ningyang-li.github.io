@@ -83,12 +83,18 @@ Academic activities
 - 2024 7th International Conference on Image and Graphics Processing (ICIGP 2024), Beijing, China, Jan. 19-21, 2024. (Listener)
 - 2024 16th International Conference on Digital Image Processing (ICDIP 2024), Haikou, China, May 24-26, 2024. (Listener)
 
+Services
+======
+- Journal Reviewer: IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1), IEEE Access (SCI, Q2), IAES International Journal of Artificial Intelligence (IJ-AI)
+- Conference Reviewer: International Conference on New Energy and Optoelectronic Materials 2023 (NEOM 2023), International Conference on Informatics Engineering & Information Science (ICIEIS 2024)
+
 Interests
 ======
 - Fishing
 - Marathon
 - Hiking
 - Listening to music
+
 
 
 <a href="https://info.flagcounter.com/7qrn"><img src="https://s11.flagcounter.com/count2/7qrn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
