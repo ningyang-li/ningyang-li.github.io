@@ -31,11 +31,6 @@ null
 Academic Publications
 ======
 **Journals**
-|------|-------|
-| ![Google logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png) | Google是一个搜索引擎和互联网服务平台。 |
-| ![Apple logo](https://developer.apple.com/news/images/og/apple-logo.png) | Apple Inc.是一家美国的公司，专注于制造和销售消费电子产品、个人电脑和智能手机等。 |
-| ![Microsoft logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo.svg/1200px-Microsoft_Office_logo.svg.png) | Microsoft是一家美国的公司，以开发和销售软件为主要业务。 |
-
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
 **N. Li**, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
 2. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification [Source](https://ieeexplore.ieee.org/document/10318097/)  
