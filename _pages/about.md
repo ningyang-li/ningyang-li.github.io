@@ -32,13 +32,13 @@ Academic Publications
 ======
 **Journals**
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
-**N. Li**, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI, JCR Q2, IF: 3.9)
+**N. Li**, Z. Wang, F. A. Cheikh, *Sensors*, vol. 24, no. 10, pp. 2987, 2024. (SCI Q2, IF: 3.9)
 2. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification [Source](https://ieeexplore.ieee.org/document/10318097/)  
-**N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, *IEEE Access*, vol. 11, pp. 128667-128680, 2023. (SCI, JCR Q2, IF: 3.9)
+**N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, *IEEE Access*, vol. 11, pp. 128667-128680, 2023. (SCI Q2, IF: 3.9)
 3. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9832463)  
-**N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, *IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing*, vol. 15, pp. 5984-5998, 2022. (SCI, JCR Q1, IF: 5.5)
+**N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, *IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing*, vol. 15, pp. 5984-5998, 2022. (SCI Q1, IF: 5.5)
 4. Spatial attention guided residual attention network for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9684915)  
-**N. Li**, Z. Wang, *IEEE Access*, vol. 10, pp. 9830-9847, 2022. (SCI, JCR Q2, IF: 3.9)
+**N. Li**, Z. Wang, *IEEE Access*, vol. 10, pp. 9830-9847, 2022. (SCI Q2, IF: 3.9)
 5. Hyperspectral sea fleet detection based on approximate posterior information [Source](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
 **N. Li**, Z. Wang, *Journal of Zhengzhou University (Natural Science Edition)*, vol. 53, no. 1, Mar. 2021, pp. 54-60.
 
@@ -66,27 +66,16 @@ X. Zhang, Z. Wang, **N. Li**, *2021 IEEE 6th International Conference on Signal 
 - Master - 高光谱遥感图像分类算法研究 / Research on Algorithms for Hyperspectral Remote Sensing Image Classification [Source](https://drive.google.com/file/d/1Yverziixg7rYchFsT04kR-Lqg7FZnl0E/view?usp=drive_link)  
 Ningyang Li, Supervised by Zhaohui Wang, Hainan University, Jun. 30, 2023.
 
-Academic activities
-======
-- 2020 20th National Conference on Image and Graphics (NCIG 2020), Urumqi, China, Jun. 28-30, 2020. (Oral Presentation)
-- 2020 3rd Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2020), Nanjing, China, Oct. 16-18, 2020. (Listener)
-- 2020 IEEE 5th International Conference on Signal and Image Processing (ICSIP 2020), Nanjing, China, Oct. 23-25, 2020. (Oral Presentation)
-- 2021 IEEE 28th International Conference on Image Processing (ICIP 2021), Anchorage, Alaska, USA, Sept. 19-22, 2021. (Poster Presentation)
-- 2021 IEEE 6th International Conference on Signal and Image Processing (ICSIP 2021), Nanjing, China, Oct. 22-24, 2021. (Listener)
-- 2021 11th International Conference on Image and Graphics (ICIG 2021), Haikou, China, Dec. 26-28, 2021. (Listener)
-- 2022 14th International Conference on Digital Image Processing (ICDIP 2022), Wuhan, China, May 20-23, 2022. (Listener)
-- 2022 11th Colour and Visual Computing Symposium (CVCS 2022), Gjøvik, Norway, Sept. 8-9, 2022. (Listener)
-- 2023 15th International Conference on Digital Image Processing (ICDIP 2023), Nanjing, China, May 19-22, 2023. (Oral Presentation)
-- 2023 8th International Conference on Computational Intelligence and Applications (ICCIA 2023), Haikou, China, Jun. 23-25, 2023. (Oral Presentation)
-- 2023 12th International Conference on Image and Graphics (ICIG 2023), Nanjing, China, Sept. 22-24, 2023. (Listener)
-- 2023 11th European Workshop on Visual Information Processing (EUVIP), Gjøvik, Norway, Sept. 11-14, 2023. (Poster Presentation)
-- 2024 7th International Conference on Image and Graphics Processing (ICIGP 2024), Beijing, China, Jan. 19-21, 2024. (Listener)
-- 2024 16th International Conference on Digital Image Processing (ICDIP 2024), Haikou, China, May 24-26, 2024. (Listener)
-
 Services
 ======
-- Journal Reviewer: IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1), IEEE Access (SCI, Q2), IAES International Journal of Artificial Intelligence (IJ-AI)
-- Conference Reviewer: International Conference on New Energy and Optoelectronic Materials 2023 (NEOM 2023), International Conference on Informatics Engineering & Information Science (ICIEIS 2024)
+**Journal Reviewer**
+- IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1)
+- IEEE Access (SCI Q2)
+- IAES International Journal of Artificial Intelligence (IJ-AI)
+
+**Conference Reviewer**
+- International Conference on New Energy and Optoelectronic Materials 2023 (NEOM 2023, EI)
+- International Conference on Informatics Engineering & Information Science (ICIEIS 2024, EI)
 
 Interests
 ======
