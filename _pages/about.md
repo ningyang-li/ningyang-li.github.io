@@ -17,7 +17,7 @@ Education
 **Bachelor**
 2015.09-2019.06  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
 
-Works
+Work
 ======
 2024.06.11-present Hainan Aerospace Information Research Institute, Chinese Academy of Sciences
 
@@ -29,9 +29,9 @@ Hyperspectral image classification
 Deep learning  
 Remote sensing
 
-Publications
+Publication
 ======
-**Journals**
+**Journal**
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
 **N. Li**, Z. Wang, F. A. Cheikh, ***Sensors***, vol. 24, no. 10, pp. 2987, 2024. (SCI Q2, 中科院三区, IF: 3.9)
 2. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification [Source](https://ieeexplore.ieee.org/document/10318097/)  
@@ -43,7 +43,7 @@ Publications
 5. Hyperspectral sea fleet detection based on approximate posterior information [Source](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
 **N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60.
 
-**Conferences**
+**Conference**
 1. Centralized sample expansion and prior correlation evaluation for hyperspectral image classification with fully convolutional network [Source](https://ieeexplore.ieee.org/document/10323055/)  
 **N. Li**, Z. Wang, ***2023 11th European Workshop on Visual Information Processing (EUVIP)***, Gjøvik, Norway, Sept. 11-14, 2023, pp. 1-6. (EI)
 2. Centralized attention modules for hyperspectral remote sensing image classification [Source](https://ieeexplore.ieee.org/document/10387873)  
@@ -67,7 +67,7 @@ X. Zhang, Z. Wang, **N. Li**, ***2021 IEEE 6th International Conference on Signa
 - Master - 高光谱遥感图像分类算法研究 / Research on Algorithms for Hyperspectral Remote Sensing Image Classification [Source](https://drive.google.com/file/d/1Yverziixg7rYchFsT04kR-Lqg7FZnl0E/view?usp=drive_link)  
 Ningyang Li, Supervised by Zhaohui Wang, Hainan University, Jun., 2023.
 
-Services
+Service
 ======
 **Journal Reviewer**
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1)
@@ -79,14 +79,14 @@ Services
 - International Conference on New Energy and Optoelectronic Materials 2023 (NEOM 2023, EI)
 - International Conference on Informatics Engineering & Information Science (ICIEIS 2024, EI)
 
-Professional skills
+Professional skill
 ======
 - Python, C, C++
 - Tensorflow, Keras, Pytorch, OpenCV
 - Visual Studio, Spyder, PyCharm, Office, LaTeX, Draw.io
 
 
-Interests
+Interest
 ======
 - Fishing
 - Marathon
