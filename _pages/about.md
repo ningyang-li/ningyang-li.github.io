@@ -36,7 +36,7 @@ Publications
 **N. Li**, Z. Wang, F. A. Cheikh, ***Sensors***, vol. 24, no. 10, pp. 2987, 2024. (SCI Q2, 中科院三区, IF: 3.9)
 2. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification [Source](https://ieeexplore.ieee.org/document/10318097/)  
 **N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Access***, vol. 11, pp. 128667-128680, 2023. (SCI Q2, 中科院三区, IF: 3.9)
-3. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9832463)  
+3. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9832463) [Code](https://github.com/ningyang-li/S3AM-Net)  
 **N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing (J-STARS)***, vol. 15, pp. 5984-5998, 2022. (SCI Q1, 中科院二区Top, IF: 5.5)
 4. Spatial attention guided residual attention network for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9684915) [Code](https://github.com/ningyang-li/SpaAG-RAN)  
 **N. Li**, Z. Wang, ***IEEE Access***, vol. 10, pp. 9830-9847, 2022. (SCI Q2, 中科院三区, IF: 3.9)
