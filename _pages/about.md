@@ -65,7 +65,7 @@ X. Zhang, Z. Wang, **N. Li**, ***2021 IEEE 6th International Conference on Signa
 
 **Thesis**
 - Master - 高光谱遥感图像分类算法研究 / Research on Algorithms for Hyperspectral Remote Sensing Image Classification [Source](https://drive.google.com/file/d/1Yverziixg7rYchFsT04kR-Lqg7FZnl0E/view?usp=drive_link)  
-Ningyang Li, Supervised by Zhaohui Wang, Hainan University, Jun., 2023.
+Ningyang Li, Hainan University, Jun., 2023.
 
 Service
 ======
