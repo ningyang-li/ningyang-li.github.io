@@ -21,7 +21,7 @@ Work
 ======
 2024.06.11-present Hainan Aerospace Information Research Institute, Chinese Academy of Sciences
 
-Research interest
+Research interests
 ======
 Image processing  
 Computer vision  
@@ -29,9 +29,9 @@ Hyperspectral image classification
 Deep learning  
 Remote sensing
 
-Publication
+Publications
 ======
-**Journal**
+**Journal articles**
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Source](https://www.mdpi.com/1424-8220/24/10/2987)  
 **N. Li**, Z. Wang, F. A. Cheikh, ***Sensors***, vol. 24, no. 10, pp. 2987, 2024. (SCI Q2, 中科院三区, IF: 3.9)
 2. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification [Source](https://ieeexplore.ieee.org/document/10318097/)  
@@ -43,7 +43,7 @@ Publication
 5. Hyperspectral sea fleet detection based on approximate posterior information [Source](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
 **N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60. (北大核心)
 
-**Conference**
+**Conferences papers**
 1. Centralized sample expansion and prior correlation evaluation for hyperspectral image classification with fully convolutional network [Source](https://ieeexplore.ieee.org/document/10323055/)  
 **N. Li**, Z. Wang, ***2023 11th European Workshop on Visual Information Processing (EUVIP)***, Gjøvik, Norway, Sept. 11-14, 2023, pp. 1-6. (EI)
 2. Centralized attention modules for hyperspectral remote sensing image classification [Source](https://ieeexplore.ieee.org/document/10387873)  
@@ -79,14 +79,14 @@ Service
 - International Conference on New Energy and Optoelectronic Materials 2023 (NEOM 2023, EI)
 - International Conference on Informatics Engineering & Information Science (ICIEIS 2024, EI)
 
-Professional skill
+Professional skills
 ======
 - Python, C, C++
 - Tensorflow, Keras, Pytorch, OpenCV
 - Visual Studio, Spyder, PyCharm, Office, LaTeX, Draw.io
 
 
-Interest
+Interests
 ======
 - Fishing
 - Marathon
