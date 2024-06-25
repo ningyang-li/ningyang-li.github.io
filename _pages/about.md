@@ -41,7 +41,7 @@ Publication
 4. Spatial attention guided residual attention network for hyperspectral image classification [Source](https://ieeexplore.ieee.org/document/9684915) [Code](https://github.com/ningyang-li/SpaAG-RAN)  
 **N. Li**, Z. Wang, ***IEEE Access***, vol. 10, pp. 9830-9847, 2022. (SCI Q2, 中科院三区, IF: 3.9)
 5. Hyperspectral sea fleet detection based on approximate posterior information [Source](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
-**N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60.
+**N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60. (北大核心)
 
 **Conference**
 1. Centralized sample expansion and prior correlation evaluation for hyperspectral image classification with fully convolutional network [Source](https://ieeexplore.ieee.org/document/10323055/)  
