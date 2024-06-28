@@ -19,7 +19,7 @@ Education
 
 Work
 ======
-2024.06.11-present Hainan Aerospace Information Research Institute, Chinese Academy of Sciences
+2024.06.11-present Hainan Aerospace Information Research Institute, Chinese Academy of Sciences, Sanya
 
 Research interests
 ======
@@ -72,12 +72,14 @@ Service
 **Journal Reviewer**
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1)
 - IEEE Access (SCI Q2)
+- Journal of Spacecraft and Rockets (JSR, SCI Q2)
 - IAES International Journal of Artificial Intelligence (IJ-AI)
 - IgMin Research - Science, Technology, Engineering, and Medicine (STEM)
 
 **Conference Reviewer**
-- International Conference on New Energy and Optoelectronic Materials 2023 (NEOM 2023, EI)
-- International Conference on Informatics Engineering & Information Science (ICIEIS 2024, EI)
+- International Conference on New Energy and Optoelectronic Materials (NEOM2023, EI)
+- International Conference on Informatics Engineering & Information Science (ICIEIS2024, EI)
+- International Conference on Bioinformatics and Biomedical Engineering (BIBE2024, EI)
 
 Professional skills
 ======
