@@ -44,23 +44,25 @@ Publications
 **N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60. (北大核心)
 
 **Conferences papers**
-1. Centralized sample expansion and prior correlation evaluation for hyperspectral image classification with fully convolutional network [Paper](https://ieeexplore.ieee.org/document/10323055/)  
+1. Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection [Code](https://github.com/ningyang-li/EP3FEN)  
+**N. Li**, Z. Wang, L. Wang, ***2024 12th Colour and Visual Computing Symposium (CVCS)***, Gjøvik, Norway, Sept. 5-6, 2024, to be presented.
+2. Centralized sample expansion and prior correlation evaluation for hyperspectral image classification with fully convolutional network [Paper](https://ieeexplore.ieee.org/document/10323055/)  
 **N. Li**, Z. Wang, ***2023 11th European Workshop on Visual Information Processing (EUVIP)***, Gjøvik, Norway, Sept. 11-14, 2023, pp. 1-6. (EI)
-2. Centralized attention modules for hyperspectral remote sensing image classification [Paper](https://ieeexplore.ieee.org/document/10387873)  
+3. Centralized attention modules for hyperspectral remote sensing image classification [Paper](https://ieeexplore.ieee.org/document/10387873)  
 **N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***2023 8th International Conference on Computational Intelligence and Applications (ICCIA)***, Haikou, China, Jun. 23-25 2023, pp. 112-116. (EI)
-3. An improved vulnerable pedestrian detection algorithm based on YOLOv7 [Paper](https://ieeexplore.ieee.org/document/10387890/)  
+4. An improved vulnerable pedestrian detection algorithm based on YOLOv7 [Paper](https://ieeexplore.ieee.org/document/10387890/)  
 X. Ye, Z. Wang, **N. Li**, K. Ye, ***2023 8th International Conference on Computational Intelligence and Applications (ICCIA)***, Haikou, China, 2023, pp. 193-197. (EI)
-4. Classification of acute bilirubin encephalopathy based on individual and fused attention network [Paper](https://ieeexplore.ieee.org/document/10387834/)  
+5. Classification of acute bilirubin encephalopathy based on individual and fused attention network [Paper](https://ieeexplore.ieee.org/document/10387834/)  
 G. Yang, Z. Wang, **N. Li**, ***2023 8th International Conference on Computational Intelligence and Applications (ICCIA)***, Haikou, China, 2023, pp. 133-137. (EI)
-5. S<sup>3</sup>AM++: Integrating differential strategy into spectral-similarity-based spatial attention module for hyperspectral remote sensing image classification [Paper](https://dl.acm.org/doi/10.1145/3604078.3604147)  
+6. S<sup>3</sup>AM++: Integrating differential strategy into spectral-similarity-based spatial attention module for hyperspectral remote sensing image classification [Paper](https://dl.acm.org/doi/10.1145/3604078.3604147)  
 **N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***2023 15th International Conference on Digital Image Processing (ICDIP)***, Nanjing, China, May 19-22, 2023, art. no. 69, pp. 1-9. (EI)
-6. Spectral-spatial fused attention network for hyperspectral image classification [Paper](https://ieeexplore.ieee.org/document/9506338/)  
+7. Spectral-spatial fused attention network for hyperspectral image classification [Paper](https://ieeexplore.ieee.org/document/9506338/)  
 **N. Li**, Z. Wang, ***2021 IEEE International Conference on Image Processing (ICIP)***, Anchorage, AK, USA, Sept. 19-22, 2021, pp. 3832-3836. (CCF-C, EI)
-7. The nonlinear hyperplane CNN for hyperspectral image classification [Paper](https://ieeexplore.ieee.org/document/9688662/)  
+8. The nonlinear hyperplane CNN for hyperspectral image classification [Paper](https://ieeexplore.ieee.org/document/9688662/)  
 X. Zhang, Z. Wang, **N. Li**, ***2021 IEEE 6th International Conference on Signal and Image Processing (ICSIP)***, Nanjing, China, 2021, pp. 350-354. (EI)
-8. Hyperspectral image ship detection based upon two-channel convolutional neural network and transfer learning [Paper](https://ieeexplore.ieee.org/document/9339434/)  
+9. Hyperspectral image ship detection based upon two-channel convolutional neural network and transfer learning [Paper](https://ieeexplore.ieee.org/document/9339434/)  
 **N. Li**, Z. Wang, ***2020 IEEE 5th International Conference on Signal and Image Processing (ICSIP)***, Nanjing, China, Oct. 23-25, 2020, pp. 88-92. (EI)
-9. Hyperspectral sea fleet detection based on approximate posterior information  
+10. Hyperspectral sea fleet detection based on approximate posterior information  
 **N. Li**, Z. Wang, ***2020 National Conference on Image and Graphics (NCIG)***, Urumqi, China, Jun. 26-28, 2020.
 
 **Thesis**
