@@ -19,15 +19,15 @@ Education
 
 Work
 ======
-2024.06.11-present Hainan Aerospace Information Research Institute, Chinese Academy of Sciences, Sanya
+- 2024.06.11-present Hainan Aerospace Information Research Institute, Wenchang
 
 Research interests
 ======
-Image processing  
-Hyperspectral image classification  
-Deep learning  
-Attention mechanism  
-Remote sensing  
+- Image processing
+- Hyperspectral image classification
+- Deep learning
+- Attention mechanism
+- Remote sensing  
 
 Publications
 ======
