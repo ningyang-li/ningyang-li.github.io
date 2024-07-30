@@ -44,8 +44,8 @@ Publications
 **N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60. (北大核心)
 
 **Conferences papers**
-1. Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection [Code](https://github.com/ningyang-li/EP3FEN)  
-**N. Li**, Z. Wang, L. Wang, ***2024 12th Colour and Visual Computing Symposium (CVCS)***, Gjøvik, Norway, Sept. 5-6, 2024, to be presented.
+1. Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection [Paper](https://doi.org/10.21203/rs.3.rs-4820019/v1) [Code](https://github.com/ningyang-li/EP3FEN)  
+**N. Li**, Z. Wang, L. Wang, ***PREPRINT (Version 1) available at Research Square (Accepted by Colour and Visual Computing Symposium 2024)***, 2024.
 2. Centralized sample expansion and prior correlation evaluation for hyperspectral image classification with fully convolutional network [Paper](https://ieeexplore.ieee.org/document/10323055/)  
 **N. Li**, Z. Wang, ***2023 11th European Workshop on Visual Information Processing (EUVIP)***, Gjøvik, Norway, Sept. 11-14, 2023, pp. 1-6. (EI)
 3. Centralized attention modules for hyperspectral remote sensing image classification [Paper](https://ieeexplore.ieee.org/document/10387873)  
