@@ -67,10 +67,10 @@ X. Zhang, Z. Wang, **N. Li**, ***2021 IEEE 6th International Conference on Signa
 
 **Thesis**
 - Master - 高光谱遥感图像分类算法研究 / Research on Algorithms for Hyperspectral Remote Sensing Image Classification [Paper](https://drive.google.com/file/d/1Yverziixg7rYchFsT04kR-Lqg7FZnl0E/view?usp=drive_link)  
-Ningyang Li, Supervised by Zhaohui Wang, Co-supervised by Faouzi Alaya Cheikh, Hainan University, Jun., 2023.  
+Ningyang Li, Hainan University, Jun., 2023.  
 ---Master Defense, 91.6 Points, Ranking 1st
 - Bachelor - 基于泊松方程的多光谱图像薄云区域信息重建方法研究 / Research on Information Reconstruction Method of Thin Cloud Regions based on Poisson's Equation for Multi-Spectral Image [Paper](https://drive.google.com/file/d/1SV4wIZiXaDzxGRgRLXufQbm3L92_u-I2/view?usp=drive_link)  
-Ningyang Li, Supervised by Chunguo Liu, Henan Polytechnique University, Jun., 2019.  
+Ningyang Li, Henan Polytechnique University, Jun., 2019.  
 ---Bachelor Defense, 89.0 Points
 
 Service
