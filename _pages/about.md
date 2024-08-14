@@ -33,13 +33,13 @@ Publications
 ======
 **Journal articles**
 1. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Paper](https://www.mdpi.com/1424-8220/24/10/2987)  
-**N. Li**, Z. Wang, F. A. Cheikh, ***Sensors***, vol. 24, no. 10, pp. 2987, 2024. (SCI Q2, 中科院三区, IF: 3.9)
+**N. Li**, Z. Wang, F. A. Cheikh, ***Sensors***, vol. 24, no. 10, pp. 2987, 2024. (SCI Q2, IF: 3.9)
 2. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification [Paper](https://ieeexplore.ieee.org/document/10318097/)  
-**N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Access***, vol. 11, pp. 128667-128680, 2023. (SCI Q2, 中科院三区, IF: 3.9)
+**N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Access***, vol. 11, pp. 128667-128680, 2023. (SCI Q2, IF: 3.9)
 3. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification [Paper](https://ieeexplore.ieee.org/document/9832463) [Code](https://github.com/ningyang-li/S3AM-Net)  
-**N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing (J-STARS)***, vol. 15, pp. 5984-5998, 2022. (SCI Q1, 中科院二区Top, IF: 5.5)
+**N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing (J-STARS)***, vol. 15, pp. 5984-5998, 2022. (SCI Q1, IF: 4.715)
 4. Spatial attention guided residual attention network for hyperspectral image classification [Paper](https://ieeexplore.ieee.org/document/9684915) [Code](https://github.com/ningyang-li/SpaAG-RAN)  
-**N. Li**, Z. Wang, ***IEEE Access***, vol. 10, pp. 9830-9847, 2022. (SCI Q2, 中科院三区, IF: 3.9)
+**N. Li**, Z. Wang, ***IEEE Access***, vol. 10, pp. 9830-9847, 2022. (SCI Q2, IF: 3.476)
 5. Hyperspectral sea fleet detection based on approximate posterior information [Paper](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
 **N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60. (北大核心)
 
