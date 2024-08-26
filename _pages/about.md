@@ -45,7 +45,7 @@ Publications
 
 **Conferences papers**
 1. Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection [Paper](https://doi.org/10.21203/rs.3.rs-4820019/v1) [Code](https://github.com/ningyang-li/EP3FEN)  
-**N. Li**, Z. Wang, L. Wang, ***PREPRINT (Version 1) available at Research Square (Accepted by Colour and Visual Computing Symposium 2024)***, 2024.
+**N. Li**, ***PREPRINT (Version 1) available at Research Square (Accepted by Colour and Visual Computing Symposium 2024)***, 2024.
 2. Centralized sample expansion and prior correlation evaluation for hyperspectral image classification with fully convolutional network [Paper](https://ieeexplore.ieee.org/document/10323055/)  
 **N. Li**, Z. Wang, ***2023 11th European Workshop on Visual Information Processing (EUVIP)***, Gjøvik, Norway, Sept. 11-14, 2023, pp. 1-6. (EI)
 3. Centralized attention modules for hyperspectral remote sensing image classification [Paper](https://ieeexplore.ieee.org/document/10387873)  
