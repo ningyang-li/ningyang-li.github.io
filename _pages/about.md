@@ -79,7 +79,6 @@ Service
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1)
 - International Journal of Digital Earth (IJDE, SCI Q1)
 - IEEE Access (SCI Q2)
-- Journal of Spacecraft and Rockets (JSR, SCI Q2)
 - IAES International Journal of Artificial Intelligence (IJ-AI)
 - IgMin Research - Science, Technology, Engineering, and Medicine (STEM)
 
