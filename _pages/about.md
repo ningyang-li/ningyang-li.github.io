@@ -13,7 +13,7 @@ Education
 - **Master**
 2019.09-2023.06  Software Engineering, Hainan University (HNU), Haikou, China  
 - **Exchange student**
-2022.03-2022.09  Department of Computer Science, Norwegian University of Science and Technology (NTNU), Gjøvik, Norway  
+2022.03-2022.09  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
 - **Bachelor**
 2015.09-2019.06  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
 
