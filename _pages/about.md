@@ -33,7 +33,7 @@ Publications
 ======
 **Journal articles**
 1. CentralFormer: Centralized spectral-spatial transformer for hyperspectral image classification with adaptive relevance estimation and circular pooling [Paper](https://ieeexplore.ieee.org/document/10772042) [Code](https://github.com/ningyang-li/CentralFormer)  
-**N. Li**, Z. Wang, F. A. Cheikh, L. Wang, ***IEEE Transactions on Geoscience and Remote Sensing (TGRS)***, Accepted. (SCI Q1, IF: 7.5)
+**N. Li**, Z. Wang, F. A. Cheikh, L. Wang, ***IEEE Transactions on Geoscience and Remote Sensing (TGRS)***, early access, 2024. (SCI Q1, IF: 7.5)
 2. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [Paper](https://www.mdpi.com/1424-8220/24/10/2987)  
 **N. Li**, Z. Wang, F. A. Cheikh, ***Sensors***, vol. 24, no. 10, pp. 2987, 2024. (SCI Q2, IF: 3.9)
 3. An exploration on the influence factors of the optimal sample width for hyperspectral image remote sensing classification [Paper](https://ieeexplore.ieee.org/document/10318097/)  
