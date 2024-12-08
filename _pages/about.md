@@ -10,16 +10,23 @@ redirect_from:
 Education
 ======
 
-- **Master**
-2019.09-2023.06  Software Engineering, Hainan University (HNU), Haikou, China  
-- **Exchange student**
-2022.03-2022.09  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
-- **Bachelor**
-2015.09-2019.06  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
+- **Master**  
+2019.09.09--2023.06.30  Software Engineering, Hainan University (HNU), Haikou, China  
+- **Exchange student**  
+2022.03.15--2022.09.30  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
+- **Bachelor**  
+2015.09.07--2019.06.27  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
+
+Disappearing ntnu PhD
+======
+- 2022.12.19--2024.04.29  
+I passed the interview on Dec. 19, 2022 and then waited for the result of final qualification review.  
+Until Apr. 29, 2024, I was told that the PhD offer was cancelled because of the serious relationship between China and Norway.
 
 Work
 ======
-- 2024.06.11-present Hainan Aerospace Information Research Institute, Wenchang
+- 2024.06.08--Present  
+Hainan Aerospace Information Research Institute, Wenchang
 
 Research interests
 ======
