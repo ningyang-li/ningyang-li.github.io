@@ -49,7 +49,7 @@ Publications
 **N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing (J-STARS)***, vol. 15, pp. 5984-5998, 2022. (SCI Q1, IF: 4.715)
 5. Spatial attention guided residual attention network for hyperspectral image classification [Paper](https://ieeexplore.ieee.org/document/9684915) [Code](https://github.com/ningyang-li/SpaAG-RAN)  
 **N. Li**, Z. Wang, ***IEEE Access***, vol. 10, pp. 9830-9847, 2022. (SCI Q2, IF: 3.476)
-6. Hyperspectral sea fleet detection based on approximate posterior information [Paper](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S78JTLpCJLKHsJ8bQ-z4SeXqlUA_m0G56ZnLRU9KJkYewnZwvvE3o7tf-ZWcd8QHfIUCs2m_4ESof8gmSeY_ACYmEgIsw0ZOHinrKyrjQtlj7sWSJzwfEmak7I-gZgZ1m86HsZp1uZXOvQ==&uniplatform=NZKPT&language=CHS)  
+6. Hyperspectral sea fleet detection based on approximate posterior information [Paper](https://zzdz.cbpt.cnki.net/portal/journal/portal/client/paper/ZZDZ_2155b0da-09f0-4ce6-b65c-c1955e3a3162)  
 **N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60.
 
 **Conferences papers**
