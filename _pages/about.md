@@ -26,7 +26,7 @@ Until Apr. 29, 2024, I was told that the Ph.D. position was cancelled because of
 Work
 ======
 - 2024.06.08--Present  
-Hainan Aerospace Information Research Institute, Wenchang:octocat:
+Hainan Aerospace Information Research Institute, Wenchang :octocat:
 
 Research interests
 ======
