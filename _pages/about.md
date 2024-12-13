@@ -39,15 +39,15 @@ Research interests
 Publications
 ======
 **Journal articles**
-1. CentralFormer: Centralized spectral-spatial transformer for hyperspectral image classification with adaptive relevance estimation and circular pooling [:rocket:](https://ieeexplore.ieee.org/document/10772042) [🌐](https://github.com/ningyang-li/CentralFormer)  
+1. CentralFormer: Centralized spectral-spatial transformer for hyperspectral image classification with adaptive relevance estimation and circular pooling [:rocket:](https://ieeexplore.ieee.org/document/10772042) [:octopus:](https://github.com/ningyang-li/CentralFormer)  
 **N. Li**, Z. Wang, F. A. Cheikh, L. Wang, ***IEEE Transactions on Geoscience and Remote Sensing (TGRS)***, early access, 2024. (SCI Q1, IF: 7.5)
 2. Discriminating spectral-spatial feature extraction for hyperspectral image classification: A review [:rocket:](https://www.mdpi.com/1424-8220/24/10/2987)  
 **N. Li**, Z. Wang, F. A. Cheikh, ***Sensors***, vol. 24, no. 10, pp. 2987, 2024. (SCI Q2, IF: 3.9)
 3. An exploration on the influence factors of the optimal sample width for hyperspectral remote sensing image classification [:rocket:](https://ieeexplore.ieee.org/document/10318097/)  
 **N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Access***, vol. 11, pp. 128667-128680, 2023. (SCI Q2, IF: 3.9)
-4. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification [:rocket:](https://ieeexplore.ieee.org/document/9832463) [:snowflake:](https://github.com/ningyang-li/S3AM-Net)  
+4. S<sup>3</sup>AM: A spectral-similarity-based spatial attention module for hyperspectral image classification [:rocket:](https://ieeexplore.ieee.org/document/9832463) [:octopus:](https://github.com/ningyang-li/S3AM-Net)  
 **N. Li**, Z. Wang, F. A. Cheikh, M. Ullah, ***IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing (J-STARS)***, vol. 15, pp. 5984-5998, 2022. (SCI Q1, IF: 4.715)
-5. Spatial attention guided residual attention network for hyperspectral image classification [:rocket:](https://ieeexplore.ieee.org/document/9684915) [:snowflake:](https://github.com/ningyang-li/SpaAG-RAN)  
+5. Spatial attention guided residual attention network for hyperspectral image classification [:rocket:](https://ieeexplore.ieee.org/document/9684915) [:octopus:](https://github.com/ningyang-li/SpaAG-RAN)  
 **N. Li**, Z. Wang, ***IEEE Access***, vol. 10, pp. 9830-9847, 2022. (SCI Q2, IF: 3.476)
 6. Hyperspectral sea fleet detection based on approximate posterior information [:rocket:](https://zzdz.cbpt.cnki.net/portal/journal/portal/client/paper/ZZDZ_2155b0da-09f0-4ce6-b65c-c1955e3a3162)  
 **N. Li**, Z. Wang, ***Journal of Zhengzhou University (Natural Science Edition)***, vol. 53, no. 1, Mar. 2021, pp. 54-60.
@@ -73,7 +73,7 @@ G. Yang, Z. Wang, **N. Li**, ***2023 8th International Conference on Computation
 X. Zhang, Z. Wang, **N. Li**, ***2021 IEEE 6th International Conference on Signal and Image Processing (ICSIP)***, Nanjing, China, 2021, pp. 350-354.
 
 **Preprints**
-1. Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection [:rocket:](https://doi.org/10.21203/rs.3.rs-4820019/v1) [:snowflake:](https://github.com/ningyang-li/EP3FEN)  
+1. Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection [:rocket:](https://doi.org/10.21203/rs.3.rs-4820019/v1) [:octopus:](https://github.com/ningyang-li/EP3FEN)  
 **N. Li**, Z. Wang, L. Wang, ***PREPRINT (Version 1) available at Research Square (Ever accepted by Colour and Visual Computing Symposium 2024)***, 2024.
 
 **Thesis**
