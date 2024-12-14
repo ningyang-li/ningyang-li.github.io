@@ -11,11 +11,11 @@ Education
 ======
 
 - **Master**  
-2019.09.09--2023.06.30  Software Engineering, Hainan University (HNU), Haikou, China 🇨🇳  
+2019.09.09--2023.06.30  Software Engineering, Hainan University (HNU), Haikou, China  
 - **Exchange student**  
-2022.03.15--2022.09.30  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway 🇳🇴  
+2022.03.15--2022.09.30  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
 - **Bachelor**  
-2015.09.07--2019.06.27  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China 🇨🇳
+2015.09.07--2019.06.27  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
 
 Unreachable ntnu Ph.D.
 ======
