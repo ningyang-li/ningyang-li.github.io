@@ -11,7 +11,7 @@ Education
 ======
 
 - **Master**  
-2019.09.09--2023.06.30  Software Engineering, Hainan University (HNU), Haikou, China  
+2019.09.09--2023.06.30  Software Engineering, Hainan University (HNU), Haikou, China 🇨🇳  
 - **Exchange student**  
 2022.03.15--2022.09.30  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
 - **Bachelor**  
