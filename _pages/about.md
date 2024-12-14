@@ -36,6 +36,10 @@ Research interests
 - Hyperspectral image classification
 - Attention mechanism
 
+Research overview
+======
+![img](researches-v1.png)  
+
 Publications
 ======
 **Journal articles**
@@ -85,10 +89,6 @@ Ningyang Li, Hainan University, Jun., 2023.
 Ningyang Li, Henan Polytechnique University, Jun., 2019.  
 --Supervised by Chunguo Liu  
 --Bachelor Defense, 89.0 Points
-
-Research overview
-======
-![img](researches-v1.png)  
 
 Service
 ======
