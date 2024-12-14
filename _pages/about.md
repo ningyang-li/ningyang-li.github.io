@@ -86,6 +86,10 @@ Ningyang Li, Henan Polytechnique University, Jun., 2019.
 --Supervised by Chunguo Liu  
 --Bachelor Defense, 89.0 Points
 
+Research overview
+======
+<img src="https://github.com/ningyang-li/ningyang-li.github.io/blob/a975eeb936fc3e1ff8ed0df6645a62b023b6c849/images/researches.png" width="1000" />  
+
 Service
 ======
 **Journal Reviewer**
@@ -109,10 +113,10 @@ Professional skills
 
 Interests
 ======
-- Fishing
-- Marathon
-- Hiking
-- Listening to music
+- Fishing :fish:
+- Marathon :runner:
+- Hiking :hiking_boot:
+- Listening to music :headphones:
 
 
 
