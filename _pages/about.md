@@ -36,7 +36,7 @@ Research interests
 - Hyperspectral image classification
 - Attention mechanism
 
-Research overview
+Overview of my researches
 ======
 ![img](researches-v1.png)  
 
