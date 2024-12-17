@@ -98,11 +98,13 @@ Service
 - IEEE Access (SCI Q2)
 - IAES International Journal of Artificial Intelligence (IJ-AI)
 - IgMin Research - Science, Technology, Engineering, and Medicine (STEM)
+- Forum Geografi (FG)
 
 **Conference Reviewer**
 - International Conference on New Energy and Optoelectronic Materials (NEOM2023, EI)
 - International Conference on Informatics Engineering & Information Science (ICIEIS2024, EI)
 - International Conference on Bioinformatics and Biomedical Engineering (BIBE2024, EI)
+- International Conference on Computer Technology and Information Science (CTIS 2025, EI)
 
 Professional skills
 ======
