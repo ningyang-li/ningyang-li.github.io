@@ -17,11 +17,11 @@ Education
 - **Bachelor**  
 2015.09.07--2019.06.27  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
 
-Unreachable ntnu Ph.D.
+Unreachable ntnu Ph.D. 🌲🌲⛰️🌲🏫🚶🏪🍕🍔🍜🌲⛰️🌊🌲🌲
 ======
 - 2022.12.19--2024.04.29  
-I passed the interview on Dec. 19, 2022 and then waited for the result of final qualification review.  
-Until Apr. 29, 2024, I was told that the Ph.D. position was cancelled because of the serious relationship between China and Norway.
+I passed the NTNU Ph.D. interview on Dec. 19, 2022 and then waited for the result of final qualification review.  
+Until Apr. 29, 2024, I was told that the Ph.D. position was cancelled by the dean because of the serious relationship between China and Norway.
 
 Work
 ======
