@@ -12,12 +12,12 @@ Education
 
 - **Master**  
 2019.09.09--2023.06.30  Software Engineering, Hainan University (HNU), Haikou, China  
-- **Exchange student**  
+- **Exchange student**🌲🌲⛰️🌲🏫🚶🏪🍕🍔🍜🌲⛰️🌊🌲🌲  
 2022.03.15--2022.09.30  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
 - **Bachelor**  
 2015.09.07--2019.06.27  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
 
-Unreachable ntnu Ph.D. 🌲🌲⛰️🌲🏫🚶🏪🍕🍔🍜🌲⛰️🌊🌲🌲
+Unreachable ntnu Ph.D.  
 ======
 - 2022.12.19--2024.04.29  
 I passed the NTNU Ph.D. interview on Dec. 19, 2022 and then waited for the result of final qualification review.  
