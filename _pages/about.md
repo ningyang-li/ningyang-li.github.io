@@ -12,7 +12,7 @@ Education
 
 - **Master**  
 2019.09.09--2023.06.30  Software Engineering, Hainan University (HNU), Haikou, China  
-- **Exchange student**🌲🌲⛰️🌲🏫🚶🏪🍕🍔🍜🌲⛰️🌊🌲🌲  
+- **Exchange student**🌲🌲⛰️🌲🏫🏪🌲⛰️🌊🌲🌲  
 2022.03.15--2022.09.30  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
 - **Bachelor**  
 2015.09.07--2019.06.27  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
@@ -77,8 +77,8 @@ G. Yang, Z. Wang, **N. Li**, ***2023 8th International Conference on Computation
 X. Zhang, Z. Wang, **N. Li**, ***2021 IEEE 6th International Conference on Signal and Image Processing (ICSIP)***, Nanjing, China, 2021, pp. 350-354.
 
 **Preprints**
-1. Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection [:rocket:](https://doi.org/10.21203/rs.3.rs-4820019/v1) [:octopus:](https://github.com/ningyang-li/EP3FEN)  
-**N. Li**, Z. Wang, L. Wang, ***PREPRINT (Version 1) available at Research Square (Ever accepted by Colour and Visual Computing Symposium 2024)***, 2024.
+1. Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection [:rocket:](https://www.researchsquare.com/article/rs-4820019/v2) [:octopus:](https://github.com/ningyang-li/EP3FEN)  
+**N. Li**, ***PREPRINT (Version 2) available at Research Square (Ever accepted by Colour and Visual Computing Symposium 2024)***, 2024.
 
 **Thesis**
 - Master - 高光谱遥感图像分类算法研究 / Research on Algorithms for Hyperspectral Remote Sensing Image Classification [:rocket:](https://drive.google.com/file/d/1dukK_TzG8ZHkv75RwSw_5Kd5vLS0MGuG/view?usp=drive_link)  
