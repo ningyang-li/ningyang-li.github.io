@@ -94,12 +94,12 @@ Service
 ======
 **Journal Reviewer**
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1, IEEE)
-- International Journal of Digital Earth (IJDE, SCI Q1, Taylor&Francis)
 - Geo-spatial Information Science (GSI, SCI Q1, Taylor&Francis)
+- International Journal of Digital Earth (IJDE, SCI Q1, Taylor&Francis)
 - IEEE Access (SCI Q2, IEEE)
+- Forum Geografi (FG)
 - IAES International Journal of Artificial Intelligence (IJ-AI)
 - IgMin Research - Science, Technology, Engineering, and Medicine (STEM)
-- Forum Geografi (FG)
 
 **Conference Reviewer**
 - International Conference on New Energy and Optoelectronic Materials (NEOM2023, EI)
