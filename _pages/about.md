@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ningyang Li (李宁阳; Gaston Li). I come from Luohe, China, and work on remote sensing, deep learning, and image processing.
-
 Education
 ======
 
