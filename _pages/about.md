@@ -94,8 +94,8 @@ Service
 ======
 **Journal Reviewer**
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1, IEEE)
-- Geo-spatial Information Science (GSI, SCI Q1, Taylor&Francis)
 - International Journal of Digital Earth (IJDE, SCI Q1, Taylor&Francis)
+- Geo-spatial Information Science (GSI, SCI Q1, Taylor&Francis)
 - IEEE Access (SCI Q2, IEEE)
 - The Journal of Supercomputing (SCI Q2, Springer)
 - Signal, Image and Video Processing (SCI Q3, Springer)
