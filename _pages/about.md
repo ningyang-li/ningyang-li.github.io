@@ -13,7 +13,7 @@ Education
 - **Ph.D. Candidate**  
 2025/09--2028/06  
 University of Chinese Academy of Sciences (UCAS), Technology and Engineering Center of Space Utilization (CSU), Beijing, China
-- **Unreachable NTNU Ph.D.**  
+- **<del>Waiting for NTNU Ph.D.</del>**  
 2022/12/19--2024/04/29  
 I passed Ph.D. interview, but the dean rejected to hire me due to the serious relationship between China and Norway.
 - **Master**  
