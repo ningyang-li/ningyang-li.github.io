@@ -10,12 +10,21 @@ redirect_from:
 Education
 ======
 
+- **Ph.D. Candidate**  
+2025/09--2028/06  
+University of Chinese Academy of Sciences (UCAS), Technology and Engineering Center of Space Utilization (CSU), Beijing, China
+- **Unreachable NTNU Ph.D.**  
+2022/12/19--2024/04/29  
+I passed Ph.D. interview, but the dean rejected to hire me due to the serious relationship between China and Norway.
 - **Master**  
-2019.09.09--2023.06.30  Software Engineering, Hainan University (HNU), Haikou, China  
+2019/09/09--2023/06/30  
+Software Engineering, Hainan University (HNU), Haikou, China  
 - **Exchange student**🌲🌲⛰️🌲🏫🏪🌲⛰️🌊🌲🌲  
-2022.03.15--2022.09.30  Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
+2022/03/15--2022/09/30  
+Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
 - **Bachelor**  
-2015.09.07--2019.06.27  Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
+2015/09/07--2019/06/27  
+Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
 
 <!--Unreachable ntnu Ph.D.  
 ======
