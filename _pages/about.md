@@ -11,38 +11,26 @@ Education
 ======
 - **Ph.D. Candidate**  
 2025/09--2028/06  
-Technology and Engineering Center of Space Utilization (CSU), University of Chinese Academy of Sciences (UCAS), Beijing, China  
+*Computer Applied Technology*, Technology and Engineering Center of Space Utilization (CSU), University of Chinese Academy of Sciences (UCAS), Beijing, China  
 - **<font color="#808080"><del>Waiting for NTNU Ph.D. Contract</del></font>**  
 2022/12/19--2024/04/29  
 I passed Ph.D. interview, but the dean rejected to hire me due to the serious relationship between China and Norway.  
 - **Master**  
 2019/09/09--2023/06/30  
-Software Engineering, Hainan University (HNU), Haikou, China  
+*Software Engineering*, Hainan University (HNU), Haikou, China  
 - **Exchange student**🌲🌲🌊⛰️🌲🏫🏪🌲⛰️🌲🌲  
 2022/03/15--2022/09/30  
 Department of Computer Science, Norges Teknisk-Naturvitenskapelige Universitet (NTNU), Gjøvik, Norway  
 - **Bachelor**  
 2015/09/07--2019/06/27  
-Remote Sensing Science and Technology, Henan Polytechnic University (HPU), Jiaozuo, China
-
-<!--Unreachable ntnu Ph.D.  
-======
-- 2022.12.19--2024.04.29  
-I passed the NTNU Ph.D. interview on Dec. 19, 2022 and then waited for the result of final qualification review.  
-Until Apr. 29, 2024, I was told that the Ph.D. position was cancelled by the dean because of the serious relationship between China and Norway.-->
-
-<!--Work
-======
-- 2024.06.08--Present  
-Hainan Aerospace Information Research Institute, Wenchang-->
+*Remote Sensing Science and Technology*, Henan Polytechnic University (HPU), Jiaozuo, China
 
 Research interests
 ======
 - Image processing
 - Deep learning
 - Remote sensing
-- Hyperspectral image classification
-- Attention mechanism
+- Pattern recognition
 
 Overview of my researches
 ======
