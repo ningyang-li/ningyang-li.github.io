@@ -94,10 +94,6 @@ Service
 - IEEE Access (SCI Q2, IEEE)
 - The Journal of Supercomputing (SCI Q2, Springer)
 - Signal, Image and Video Processing (SCI Q3, Springer)
-- Forum Geografi (FG)
-- IAES International Journal of Artificial Intelligence (IJ-AI)
-- IgMin Research - Science, Technology, Engineering, and Medicine (STEM)
-- American Journal of Diagnostic Imaging (AJDI)
 
 **Conference Reviewer**
 - International Conference on New Energy and Optoelectronic Materials (NEOM2023, EI)
