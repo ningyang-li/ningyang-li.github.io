@@ -11,7 +11,7 @@ Education
 ======
 - **Ph.D. Candidate**  
 2025/09--2028/06  
-*Computer Applied Technology*, Technology and Engineering Center of Space Utilization (CSU), University of Chinese Academy of Sciences (UCAS), Beijing, China  
+*Computer Applied Technology*, Technology and Engineering Center of Space Utilization (CSU), Chinese Academy of Sciences (CAS), Beijing, China  
 - **<font color="#808080"><del>Waiting for NTNU Ph.D. Contract</del></font>**  
 2022/12/19--2024/04/29  
 I passed Ph.D. interview, but the dean rejected to hire me due to the serious relationship between China and Norway.  
