@@ -34,7 +34,7 @@ Research interests
 
 Overview of my researches
 ======
-![img](researches-v1.png)  
+![img](researches-v2.png)  
 
 Publications
 ======
