@@ -93,6 +93,7 @@ Service
 - Scientific Reports (SCI Q1, Springer)
 - IEEE Access (SCI Q2, IEEE)
 - The Journal of Supercomputing (SCI Q2, Springer)
+- International Journal of Remote Sensing (SCI Q2, Taylor&Francis)
 - Signal, Image and Video Processing (SCI Q3, Springer)
 
 **Conference Reviewer**
