@@ -88,6 +88,7 @@ Service
 ======
 **Journal Reviewer**
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS, SCI Q1, IEEE)
+- IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing (J-STARS, SCI Q1, IEEE)
 - Geo-spatial Information Science (GSI, SCI Q1, Taylor&Francis)
 - International Journal of Digital Earth (IJDE, SCI Q1, Taylor&Francis)
 - Scientific Reports (SCI Q1, Springer)
@@ -98,10 +99,10 @@ Service
 - Signal, Image and Video Processing (SCI Q3, Springer)
 
 **Conference Reviewer**
-- International Conference on New Energy and Optoelectronic Materials (NEOM2023, EI)
-- International Conference on Informatics Engineering & Information Science (ICIEIS2024, EI)
-- International Conference on Bioinformatics and Biomedical Engineering (BIBE2024, EI)
-- International Conference on Computer Technology and Information Science (CTIS2025, EI)
+- International Conference on New Energy and Optoelectronic Materials (NEOM2023)
+- International Conference on Informatics Engineering & Information Science (ICIEIS2024)
+- International Conference on Bioinformatics and Biomedical Engineering (BIBE2024)
+- International Conference on Computer Technology and Information Science (CTIS2025)
 
 Professional skills
 ======
