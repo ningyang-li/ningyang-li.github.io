@@ -114,7 +114,7 @@ Professional skills
 Interests
 ======
 - Fishing :fish:
-- [Marathon](https://raw.githubusercontent.com/ningyang-li/ningyang-li.github.io/refs/heads/master/_pages/jog.png) :runner:
+- [Marathon](https://raw.githubusercontent.com/ningyang-li/ningyang-li.github.io/refs/heads/master/_pages/jog2.png) :runner:
 - Hiking :hiking_boot:
 - Listening to music :headphones:
 
