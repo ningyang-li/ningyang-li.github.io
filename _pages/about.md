@@ -30,14 +30,12 @@ Research interests
 - Image processing
 - Deep learning
 - Remote sensing
-- Pattern recognition
-
-Overview of my researches
-======
-![img](researches-v2.png)  
+- Pattern recognition  
 
 Publications
 ======
+[**Overview of my researchess**](https://raw.githubusercontent.com/ningyang-li/ningyang-li.github.io/refs/heads/master/_pages/researches-v2.png)
+
 **Journal articles**
 1. CentralFormer: Centralized spectral-spatial transformer for hyperspectral image classification with adaptive relevance estimation and circular pooling [:rocket:](https://ieeexplore.ieee.org/document/10772042) [:octopus:](https://github.com/ningyang-li/CentralFormer)  
 **N. Li**, Z. Wang, F. A. Cheikh, L. Wang, ***IEEE Transactions on Geoscience and Remote Sensing (TGRS)***, vol. 62, pp. 1-16, 2024, Art no. 5540716. (SCI Q1, IF: 7.5)
@@ -97,6 +95,7 @@ Service
 - International Journal of Remote Sensing (SCI Q2, Taylor&Francis)
 - International Journal of Image and Data Fusion (SCI Q2, Taylor&Francis)
 - Signal, Image and Video Processing (SCI Q3, Springer)
+- Computational Geosciences (SCI Q3, Springer)
 
 **Conference Reviewer**
 - International Conference on New Energy and Optoelectronic Materials (NEOM2023)
