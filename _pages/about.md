@@ -34,7 +34,7 @@ Research interests
 
 Publications
 ======
-[**Overview of my researchess**](https://raw.githubusercontent.com/ningyang-li/ningyang-li.github.io/refs/heads/master/_pages/researches-v2.png)
+[**Overview of my researches**](https://raw.githubusercontent.com/ningyang-li/ningyang-li.github.io/refs/heads/master/_pages/researches-v2.png)
 
 **Journal articles**
 1. CentralFormer: Centralized spectral-spatial transformer for hyperspectral image classification with adaptive relevance estimation and circular pooling [:rocket:](https://ieeexplore.ieee.org/document/10772042) [:octopus:](https://github.com/ningyang-li/CentralFormer)  
