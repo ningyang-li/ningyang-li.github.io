@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-- **Ph.D. Candidate**  
+- **Ph.D. Student**  
 2025/09--2028/06  
 *Computer Applied Technology*, Technology and Engineering Center of Space Utilization (CSU), Chinese Academy of Sciences (CAS), Beijing, China  
 - **<font color="#808080"><del>Waiting for NTNU Ph.D. Contract</del></font>**  
@@ -115,7 +115,7 @@ Professional skills
 Interests
 ======
 - Fishing :fish:
-- [Marathon](https://raw.githubusercontent.com/ningyang-li/ningyang-li.github.io/refs/heads/master/_pages/jog2mini.png) :runner:
+- [Marathon](https://raw.githubusercontent.com/ningyang-li/ningyang-li.github.io/refs/heads/master/_pages/jog2mini2.png) :runner:
 - Hiking :hiking_boot:
 - Listening to music :headphones:
 
