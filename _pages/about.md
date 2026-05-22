@@ -105,6 +105,10 @@ Service
 - International Conference on Bioinformatics and Biomedical Engineering (BIBE2024)
 - International Conference on Computer Technology and Information Science (CTIS2025)
 
+Award
+======
+- 2025 IEEE Access Exceptional Reviewer
+
 Professional skills
 ======
 - Python, C, C++
