@@ -107,7 +107,7 @@ Service
 
 Award
 ======
-- 2025 IEEE Access Exceptional Reviewer
+- [2025 IEEE Access Exceptional Reviewer](https://github.com/ningyang-li/ningyang-li.github.io/blob/d816a35ccf3dc7a0538774c9e142784afac6c5e9/_pages/access-2025.png)
 
 Professional skills
 ======
