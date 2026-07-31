@@ -92,6 +92,8 @@ Service
 - Geo-spatial Information Science (GSI, SCI Q1, Taylor&Francis)
 - International Journal of Digital Earth (IJDE, SCI Q1, Taylor&Francis)
 - Scientific Reports (SCI Q1, Springer)
+- Journal of King Saud University Computer and Information Sciences (SCI Q1, Springer)
+- PFG - Journal of Photogrammetry, Remote Sensing and Geoinformation Science (SCI Q1, Springer)
 - IEEE Access (SCI Q2, IEEE)
 - The Journal of Supercomputing (SCI Q2, Springer)
 - International Journal of Remote Sensing (SCI Q2, Taylor&Francis)
