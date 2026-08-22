@@ -137,7 +137,7 @@ Interests
 ======
 - Fishing :fish:
 - [Marathon](https://raw.githubusercontent.com/ningyang-li/ningyang-li.github.io/refs/heads/master/_pages/jog2mini2.png) :runner:
-- Hiking :hiking_boot:
+- Hiking 🌄
 - Listening to music :headphones:
 - Bartending 🍸
 
