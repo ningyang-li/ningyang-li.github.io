@@ -104,12 +104,14 @@ Service
   - IEEE Transactions on Emerging Topics in Computational Intelligence (SCI Q2, TETCI)
   - IEEE Access (SCI Q2)  
 - ***Springer***
+  - Scientific Data (SCI Q1)
   - Scientific Reports (SCI Q1)
   - Journal of King Saud University Computer and Information Sciences (SCI Q1)
   - PFG - Journal of Photogrammetry, Remote Sensing and Geoinformation Science (SCI Q1)
   - The Journal of Supercomputing (SCI Q2)
   - Signal, Image and Video Processing (SCI Q3)
   - Computational Geosciences (SCI Q3)
+  - Discover Computing (SCI Q3)
 - ***Taylor&Francis***
   - Geo-spatial Information Science (GSI, SCI Q1)
   - International Journal of Digital Earth (IJDE, SCI Q1)
